@@ -21,12 +21,12 @@
                 compatible = "zmk,combos";
                 combo_esc {
                         timeout-ms = <50>;
-                        key-positions = <17 18>;
+                        key-positions = <16 17>;
                         bindings = <&kp ESC>;
                 };
                 combo_tab {
                         timeout-ms = <50>;
-                        key-positions = <11 12>;
+                        key-positions = <10 11>;
                         bindings = <&kp TAB>;
                 };
         };
